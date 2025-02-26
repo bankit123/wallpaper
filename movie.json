@@ -1,0 +1,19 @@
+{
+  "movie": [
+    {
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV7BYCa89jYoRkiMhePN11YUvwt76i2VmGLbuxBuaqcJ9prHGBza0_BhhOWJQW_HxPHo1-u94IQb367frakdMPsNWpRChJxhzyjARTHT9gWsdGB-V5c0LFsSShLq0NDjZ6lOYgmS73NFkI2jNqUH0IvStVoKKzu-md-Q38HFeWSEG8ftdyYjVAja5J4vY/s16000/chava.webp",
+      "title": "Chhava",
+      "sutitle": "Viki"
+    },
+    {
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKozfmzRKqNaoeJoyJY9c2Y5l_HwlVlwNByzbzruKYe1tYfL3PuuwDUobR8VLpLBHUpdylgk2p7JjSvxctnEgGXWmuAdmLEZOdNtg9-74j33ba5LsETRP3DLoGLcHj1BmWEjxfhfHhyNF34K2cWHywIWlShwt1_ox_gfc0dAeT3AlRwqe7goHbjuKBmM/s16000/master.jpg",
+      "title": "Master",
+      "sutitle": "Thalapathy"
+    },
+    {
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3N9ZnlVgbYYtYJFjNyTQK2gQP0Dqbo8AnNREVNAuPVFmSIAtAc7bvZ9oZbcu6FcgrFqK2hippOIumjGDNPQcr5CzRTyZ5dD7MctCPS-8rCcLDGlZEHYFdKu5fcBH7LoyUEJCKGKoybQoChrVUYQmJtbbgCDAXwY0Ch0-1arMdl_V9kmKxRiLp78AttnU/s16000/pathan.jpg",
+      "title": "Pathan",
+      "sutitle": "SRK"
+    }
+  ]
+}
