@@ -7,7 +7,7 @@
       "pointsEarned": 10,
       "rewardType": "ad_watch",
       "limitPerDay": 5,
-      "buttonText": "Watch Now",
+      "buttonText": "Claim",
       "actionName": "SHOW_REWARDED_AD",
       "status": "available"
     },
@@ -18,7 +18,7 @@
       "pointsEarned": 4,
       "rewardType": "ad_watch_short",
       "limitPerDay": 10,
-      "buttonText": "Watch Now",
+      "buttonText": "Claim",
       "actionName": "SHOW_REWARDED_SHORT",
       "status": "available"
     },
@@ -29,7 +29,7 @@
       "pointsEarned": 2,
       "rewardType": "daily_bonus",
       "limitPerDay": 1,
-      "buttonText": "Get",
+      "buttonText": "Claim",
       "actionName": "DAILY_CLAIM",
       "status": "available"
     },
@@ -40,7 +40,7 @@
       "pointsEarned": 50,
       "rewardType": "referral",
       "limitPerDay": 3,
-      "buttonText": "Share",
+      "buttonText": "Claim",
       "actionName": "OPEN_SHARE_INTENT",
       "status": "available"
     }
