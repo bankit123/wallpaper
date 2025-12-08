@@ -1,0 +1,48 @@
+{
+  "rewards": [
+    {
+      "id": 1,
+      "title": "Watch a 20 sec Ad",
+      "description": "Earn points by watching a 20-second full ad.",
+      "pointsEarned": 10,
+      "rewardType": "ad_watch",
+      "limitPerDay": 5,
+      "buttonText": "Watch Now",
+      "actionName": "SHOW_REWARDED_AD",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "title": "Watch a 5 sec Short Ad",
+      "description": "Earn small points by watching a short ad.",
+      "pointsEarned": 4,
+      "rewardType": "ad_watch_short",
+      "limitPerDay": 10,
+      "buttonText": "Watch Now",
+      "actionName": "SHOW_REWARDED_SHORT",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "title": "Daily Check-in Bonus",
+      "description": "Login daily and earn free reward points.",
+      "pointsEarned": 2,
+      "rewardType": "daily_bonus",
+      "limitPerDay": 1,
+      "buttonText": "Get",
+      "actionName": "DAILY_CLAIM",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "title": "Refer a Friend",
+      "description": "Invite your friends and earn huge rewards.",
+      "pointsEarned": 50,
+      "rewardType": "referral",
+      "limitPerDay": 3,
+      "buttonText": "Share",
+      "actionName": "OPEN_SHARE_INTENT",
+      "status": "available"
+    }
+  ]
+}
