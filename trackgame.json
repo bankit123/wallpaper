@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Spin & Win",
+      "icon": "https://business.gamezop.com/img/gamezop/SkhljT2fdgb/cover.jpg?w=600&q=50",
+      "buttonText": "Play",
+      "pointsEarned": 10,
+      "actionName": "OPEN_SPIN_GAME"
+    },
+    {
+      "id": 2,
+      "name": "Scratch Card",
+      "icon": "https://business.gamezop.com/img/gamezop/SkhljT2fdgb/cover.jpg?w=600&q=50",
+      "buttonText": "Play",
+      "pointsEarned": 5,
+      "actionName": "OPEN_SCRATCH_GAME"
+    },
+    {
+      "id": 3,
+      "name": "Quiz & Earn",
+      "icon": "https://business.gamezop.com/img/gamezop/SkhljT2fdgb/cover.jpg?w=600&q=50",
+      "buttonText": "Play",
+      "pointsEarned": 15,
+      "actionName": "OPEN_QUIZ_GAME"
+    }
+  ]
+}
