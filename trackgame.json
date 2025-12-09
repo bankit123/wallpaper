@@ -2,27 +2,63 @@
   "games": [
     {
       "id": 1,
-      "name": "Spin & Win",
-      "icon": "https://business.gamezop.com/img/gamezop/SkhljT2fdgb/cover.jpg?w=600&q=50",
+      "name": "Dunk Shot",
+      "url": "https://8207.play.gamezop.com/g/S1Ne12TQqCH",
+      "imgUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Z9W6-F8jt1JD9j2gmdgyUux-05ojL8hif3u7VhgxSAF6u03RO5eDRsIehEneYkFsf1LMwCJ2TyCFFid8HrAQYbsNN7Mgj9ImUqN64GMjSRsLD0ECZHGFX63M7OHzf3zN_y4FMHTFt1DxUI1rV6A0m_3uZvYq4Q_CtDvdrrLKUj199TKbRn81M5XzX8k/s16000/s1.jpg",
+      "points": 10,
+      "actionName": "OPEN_GAME",
       "buttonText": "Play",
-      "pointsEarned": 10,
-      "actionName": "OPEN_SPIN_GAME"
+      "status": "available"
     },
     {
       "id": 2,
-      "name": "Scratch Card",
-      "icon": "https://business.gamezop.com/img/gamezop/SkhljT2fdgb/cover.jpg?w=600&q=50",
+      "name": "ZUNO",
+      "url": "https://8207.play.gamezop.com/g/ByQxJnp7qRB",
+      "imgUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5FwX_LZQ9rt7rFWtRstolIZA8VMzE7jkoDse-Jljh8q93IicNU2bGDuUo-KBxVZAZvnF8myRXXea1Wal85UfTqCEzelPj5fd8gg9GLWIrw04P5HPiYjm07knZK1Fas6KPsennQ4JADmaiNkKbaGOL_ftBAXD5MGzZqDTQshhrc88jHD-5vZsj9nxXn34/s16000/s2.jpg",
+      "points": 10,
+      "actionName": "OPEN_GAME",
       "buttonText": "Play",
-      "pointsEarned": 5,
-      "actionName": "OPEN_SCRATCH_GAME"
+      "status": "available"
     },
     {
       "id": 3,
-      "name": "Quiz & Earn",
-      "icon": "https://business.gamezop.com/img/gamezop/SkhljT2fdgb/cover.jpg?w=600&q=50",
+      "name": "Blazing Blades",
+      "url": "https://8207.play.gamezop.com/g/UYiznUAya",
+      "imgUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj4FbJ6rCFyfMM3uTJrX6V6apWnnpuNcOEH0OGyZta21GInswsaAK_pP2JcTSdyveBXlmSCDkuRcCbIapFtbxYRywUBlxaprsNgK-bkQb7hW3HlYs-LHHaBHuylZYvMDFZ3qutwpmvdXsbCZdE0He0MZgz8xFfw17LmzeUPWzUGu_v9XJNQDWS8AAWAXE/s16000/s3.jpg",
+      "points": 10,
+      "actionName": "OPEN_GAME",
       "buttonText": "Play",
-      "pointsEarned": 15,
-      "actionName": "OPEN_QUIZ_GAME"
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "name": "Tic Tac Toe",
+      "url": "https://8207.play.gamezop.com/g/H1WmafkP9JQ",
+      "imgUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXuYcknYvlfKwStJPs8f3VfL3c3xkrGW0I5T_cZwDeW2klcJmjuEcB45ak9LitEF0hNUvkIHkKhwRWa4o56veRunkMLQyvf0xUx3v3aOJCCOzfYo0luRtAB9NEmLki4Zv1ZbeM_o5CkBK7R4yKabHhwFe8EE852RudVFqm43s99X2ffw-iPMwmaY93RXE/s16000/s4.jpg",
+      "points": 10,
+      "actionName": "OPEN_GAME",
+      "buttonText": "Play",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "name": "Candy Fiesta",
+      "url": "https://8207.play.gamezop.com/g/r1zG1h6m90H",
+      "imgUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPowuqpJPruedAsRMr6NHNcSyWsaWERkcAa7fzWtnxBx2KuY9cE4UvfvghY2xbA3EAHtnLTHjkHErJW4qtIkG4VR_PBV-GwuqrxCBCuSmglwPqDx_RdYrY9AhyphenhyphenwpyoVLgQ2YUPAITs72sTOXYi6YQpbmpYli-HfR7y9pRTWm34Z4Vxrd9qWgruV81DMKk/s16000/s5.jpg",
+      "points": 10,
+      "actionName": "OPEN_GAME",
+      "buttonText": "Play",
+      "status": "available"
+    },
+    {
+      "id": 6,
+      "name": "Bubble Wipeout",
+      "url": "https://8207.play.gamezop.com/g/H1AN6fkwqJ7",
+      "imgUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFR3CeKjSCLxm3kbpRz4O6vagKUCuyus67ra6Eferd-lVJeAt-VkOnUk9JGGBx9txa2ZlqLFckzQfAx4srXEgEmSctGx2c6luwmFoztMPw3CxEjnW6Mlx9ZO-UjyVPkV0Mu2FngzCDcQPk40zItMsLxiNcwYlTFnVc03ogu3hoSj9VEZR-36nju6DYjAc/s16000/s6.jpg",
+      "points": 10,
+      "actionName": "OPEN_GAME",
+      "buttonText": "Play",
+      "status": "available"
     }
   ]
 }
