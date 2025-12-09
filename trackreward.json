@@ -16,10 +16,10 @@
       "title": "Watch a 5 sec Short Ad",
       "description": "Earn small points by watching a short ad.",
       "pointsEarned": 4,
-      "rewardType": "showInterstitialAd",
+      "rewardType": "ad_watch",
       "limitPerDay": 10,
       "buttonText": "Claim",
-      "actionName": "SHOW_REWARDED_SHORT",
+      "actionName": "showInterstitialAd",
       "status": "available"
     },
     {
