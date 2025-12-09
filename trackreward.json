@@ -21,28 +21,6 @@
       "buttonText": "Claim",
       "actionName": "showInterstitialAd",
       "status": "available"
-    },
-    {
-      "id": 3,
-      "title": "Daily Check-in Bonus",
-      "description": "Login daily and earn free reward points.",
-      "pointsEarned": 2,
-      "rewardType": "game",
-      "limitPerDay": 1,
-      "buttonText": "Claim",
-      "actionName": "DAILY_CLAIM",
-      "status": "available"
-    },
-    {
-      "id": 4,
-      "title": "Refer a Friend",
-      "description": "Invite your friends and earn huge rewards.",
-      "pointsEarned": 50,
-      "rewardType": "game",
-      "limitPerDay": 3,
-      "buttonText": "Claim",
-      "actionName": "OPEN_SHARE_INTENT",
-      "status": "available"
     }
   ]
 }
