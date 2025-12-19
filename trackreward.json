@@ -15,7 +15,7 @@
       "id": 2,
       "title": "Watch a 5 sec Short Ad",
       "description": "Earn small points by watching a short ad.",
-      "pointsEarned": 2,
+      "pointsEarned": 3,
       "rewardType": "ad_watch",
       "limitPerDay": 10,
       "buttonText": "Claim",
