@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Watch a 20 sec Ad",
       "description": "Earn points by watching a 20-second full ad.",
-      "pointsEarned": 8,
+      "pointsEarned": 6,
       "rewardType": "ad_watch",
       "limitPerDay": 5,
       "buttonText": "Claim",
@@ -15,12 +15,24 @@
       "id": 2,
       "title": "Watch a 5 sec Short Ad",
       "description": "Earn small points by watching a short ad.",
-      "pointsEarned": 3,
+      "pointsEarned": 2,
+      "rewardType": "ad_watch",
+      "limitPerDay": 10,
+      "buttonText": "Claim",
+      "actionName": "showInterstitialAd",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "title": "Watch Short Ad",
+      "description": "Earn small points by watching a short ad.",
+      "pointsEarned": 2,
       "rewardType": "ad_watch",
       "limitPerDay": 10,
       "buttonText": "Claim",
       "actionName": "showInterstitialAd",
       "status": "available"
     }
+    
   ]
 }
