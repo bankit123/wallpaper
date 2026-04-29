@@ -1,61 +1,61 @@
 {
   "version": 3,
   "paths": [
-    {
-      "id": 1,
-      "name": "Shiv",
-      "mantra": "Om Namah Shivay",
-      "description": "Journey through sacred Jyotirlingas",
-      "theme_color": "#0A3D5C",
-      "light_color": "#D4E8F5",
-      "image_name": "https://i.pinimg.com/736x/8a/97/28/8a9728d698550f65f31bac354e3f576e.jpg",
-      "bonus_day": "MONDAY",
-      "total_mandirs": 2,
-      "sort_order": 1,
-      "unlock_jap": 0,
-      "is_enabled": true
-    },
-    {
-      "id": 2,
-      "name": "Hanuman",
-      "mantra": "Jai Bajrangbali",
-      "description": "Visit sacred Hanuman mandirs",
-      "theme_color": "#7A2800",
-      "light_color": "#FDDCC8",
-      "image_name": "https://i.pinimg.com/736x/6e/20/7a/6e207aed70d0054d18a1d37a253cfd14.jpg",
-      "bonus_day": "TUESDAY",
-      "total_mandirs": 2,
-      "sort_order": 2,
-      "unlock_jap": 5000,
-      "is_enabled": true
-    },
-    {
-      "id": 3,
-      "name": "Krishna",
-      "mantra": "Hare Krishna",
-      "description": "Divine journey through Krishna dham",
-      "theme_color": "#2D1570",
-      "light_color": "#DDD5F5",
-      "image_name": "https://i.pinimg.com/736x/de/12/23/de1223828c3477b44feae4dd0d26ba0d.jpg",
-      "bonus_day": "WEDNESDAY",
-      "total_mandirs": 2,
-      "sort_order": 3,
-      "unlock_jap": 10000,
-      "is_enabled": true
-    },
-    {
-      "id": 4,
-      "name": "Hanuman1",
-      "mantra": "Jai Bajrangbali1",
-      "description": "Visit sacred Hanuman mandirs",
-      "theme_color": "#7A2800",
-      "light_color": "#FDDCC8",
-      "image_name": "https://i.pinimg.com/736x/6e/20/7a/6e207aed70d0054d18a1d37a253cfd14.jpg",
-      "bonus_day": "TUESDAY",
-      "total_mandirs": 2,
-      "sort_order": 2,
-      "unlock_jap": 5000,
-      "is_enabled": true
-    }
+   {
+    "id": 1,
+    "name": "Shiv",
+    "mantra": "Om Namah Shivay",
+    "description": "Journey through sacred Jyotirlingas",
+    "theme_color": "#0A3D5C",
+    "light_color": "#D4E8F5",
+    "image_name": "https://i.pinimg.com/736x/8a/97/28/8a9728d698550f65f31bac354e3f576e.jpg",
+    "bonus_day": "MONDAY",
+    "total_mandirs": "12 Shiv Jyotirlinga",
+    "sort_order": 1,
+    "unlock_jap": 0,
+    "is_enabled": true
+  },
+  {
+    "id": 2,
+    "name": "Hanuman",
+    "mantra": "Jai Bajrangbali",
+    "description": "Visit sacred Hanuman mandirs",
+    "theme_color": "#7A2800",
+    "light_color": "#FDDCC8",
+    "image_name": "https://i.pinimg.com/736x/6e/20/7a/6e207aed70d0054d18a1d37a253cfd14.jpg",
+    "bonus_day": "TUESDAY",
+    "total_mandirs": "7 Sacred Temples",
+    "sort_order": 2,
+    "unlock_jap": 5000,
+    "is_enabled": true
+  },
+  {
+    "id": 3,
+    "name": "Krishna",
+    "mantra": "Hare Krishna",
+    "description": "Divine journey through Krishna dham",
+    "theme_color": "#2D1570",
+    "light_color": "#DDD5F5",
+    "image_name": "https://i.pinimg.com/736x/de/12/23/de1223828c3477b44feae4dd0d26ba0d.jpg",
+    "bonus_day": "WEDNESDAY",
+    "total_mandirs": "84 Kos Parikrama",
+    "sort_order": 3,
+    "unlock_jap": 10000,
+    "is_enabled": true
+  },
+  {
+    "id": 4,
+    "name": "Rama",
+    "mantra": "Jai Shri Ram",
+    "description": "Follow Ram's divine journey",
+    "theme_color": "#0D3D1A",
+    "light_color": "#D8EDD8",
+    "image_name": "https://i.pinimg.com/736x/6e/20/7a/6e207aed70d0054d18a1d37a253cfd14.jpg",
+    "bonus_day": "SUNDAY",
+    "total_mandirs": "6 Ramayana Stops",
+    "sort_order": 4,
+    "unlock_jap": 15000,
+    "is_enabled": true
+  }
   ]
 }
