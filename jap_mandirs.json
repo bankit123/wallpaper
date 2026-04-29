@@ -1,0 +1,91 @@
+{
+  "version": 5,
+  "mandirs": [
+    {
+      "id": 101,
+      "god_path_id": 1,
+      "position": 1,
+      "name": "Kashi Vishwanath",
+      "location": "Varanasi, UP",
+      "description": "One of the holiest Shiva temples.",
+      "image_name": "mandir_kashi",
+      "jap_required": 1000,
+      "total_jap_required": 1000,
+      "reward_type": "BADGE",
+      "reward_value": "badge_kashi",
+      "is_enabled": true
+    },
+    {
+      "id": 102,
+      "god_path_id": 1,
+      "position": 2,
+      "name": "Somnath",
+      "location": "Gujarat",
+      "description": "Ancient Jyotirlinga on western coast.",
+      "image_name": "mandir_somnath",
+      "jap_required": 2000,
+      "total_jap_required": 3000,
+      "reward_type": "WALLPAPER",
+      "reward_value": "wallpaper_somnath",
+      "is_enabled": true
+    },
+
+    {
+      "id": 201,
+      "god_path_id": 2,
+      "position": 1,
+      "name": "Sankat Mochan",
+      "location": "Varanasi, UP",
+      "description": "Popular Hanuman temple.",
+      "image_name": "mandir_sankat_mochan",
+      "jap_required": 1000,
+      "total_jap_required": 1000,
+      "reward_type": "BADGE",
+      "reward_value": "badge_hanuman_1",
+      "is_enabled": true
+    },
+    {
+      "id": 202,
+      "god_path_id": 2,
+      "position": 2,
+      "name": "Hanuman Garhi",
+      "location": "Ayodhya, UP",
+      "description": "Sacred Hanuman temple in Ayodhya.",
+      "image_name": "mandir_hanuman_garhi",
+      "jap_required": 2500,
+      "total_jap_required": 3500,
+      "reward_type": "WALLPAPER",
+      "reward_value": "wallpaper_hanuman",
+      "is_enabled": true
+    },
+
+    {
+      "id": 301,
+      "god_path_id": 3,
+      "position": 1,
+      "name": "Mathura",
+      "location": "UP",
+      "description": "Birthplace of Lord Krishna.",
+      "image_name": "mandir_mathura",
+      "jap_required": 1500,
+      "total_jap_required": 1500,
+      "reward_type": "BADGE",
+      "reward_value": "badge_mathura",
+      "is_enabled": true
+    },
+    {
+      "id": 302,
+      "god_path_id": 3,
+      "position": 2,
+      "name": "Vrindavan",
+      "location": "UP",
+      "description": "Land of Krishna leelas.",
+      "image_name": "mandir_vrindavan",
+      "jap_required": 2500,
+      "total_jap_required": 4000,
+      "reward_type": "THEME",
+      "reward_value": "theme_krishna_blue",
+      "is_enabled": true
+    }
+  ]
+}
