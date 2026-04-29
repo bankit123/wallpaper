@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "paths": [
+    {
+      "id": 1,
+      "name": "Shiv",
+      "mantra": "Om Namah Shivay",
+      "description": "Journey through sacred Jyotirlingas",
+      "theme_color": "#0A3D5C",
+      "light_color": "#D4E8F5",
+      "image_name": "god_shiv",
+      "bonus_day": "MONDAY",
+      "total_mandirs": 2,
+      "sort_order": 1,
+      "unlock_jap": 0,
+      "is_enabled": true
+    },
+    {
+      "id": 2,
+      "name": "Hanuman",
+      "mantra": "Jai Bajrangbali",
+      "description": "Visit sacred Hanuman mandirs",
+      "theme_color": "#7A2800",
+      "light_color": "#FDDCC8",
+      "image_name": "god_hanuman",
+      "bonus_day": "TUESDAY",
+      "total_mandirs": 2,
+      "sort_order": 2,
+      "unlock_jap": 5000,
+      "is_enabled": true
+    },
+    {
+      "id": 3,
+      "name": "Krishna",
+      "mantra": "Hare Krishna",
+      "description": "Divine journey through Krishna dham",
+      "theme_color": "#2D1570",
+      "light_color": "#DDD5F5",
+      "image_name": "god_krishna",
+      "bonus_day": "WEDNESDAY",
+      "total_mandirs": 2,
+      "sort_order": 3,
+      "unlock_jap": 10000,
+      "is_enabled": true
+    }
+  ]
+}
