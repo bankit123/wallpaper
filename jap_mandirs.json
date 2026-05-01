@@ -1,92 +1,6 @@
 {
-  "version": 5,
+  "version": 6,
   "mandirs": [
-    {
-      "id": 101,
-      "god_path_id": 1,
-      "position": 1,
-      "name": "Kashi Vishwanath",
-      "location": "Varanasi, UP",
-      "description": "One of the holiest Shiva temples.",
-      "image_name": "https://images.pexels.com/photos/13366845/pexels-photo-13366845.jpeg?_gl=1*e0dkjj*_ga*OTczMjk1OTI5LjE3NTI5ODk2OTQ.*_ga_8JE65Q40S6*czE3Nzc1NTgxMDMkbzI4JGcxJHQxNzc3NTU4MTE0JGo0OSRsMCRoMA..",
-      "jap_required": 1000,
-      "total_jap_required": 1000,
-      "reward_type": "BADGE",
-      "reward_value": "badge_kashi",
-      "is_enabled": true
-    },
-    {
-      "id": 102,
-      "god_path_id": 1,
-      "position": 2,
-      "name": "Somnath",
-      "location": "Gujarat",
-      "description": "Ancient Jyotirlinga on western coast.",
-      "image_name": "https://images.pexels.com/photos/17367059/pexels-photo-17367059.jpeg?_gl=1*1yn8dj7*_ga*OTczMjk1OTI5LjE3NTI5ODk2OTQ.*_ga_8JE65Q40S6*czE3Nzc1NTgxMDMkbzI4JGcxJHQxNzc3NTU4MTY3JGo1OSRsMCRoMA..",
-      "jap_required": 2000,
-      "total_jap_required": 3000,
-      "reward_type": "WALLPAPER",
-      "reward_value": "wallpaper_somnath",
-      "is_enabled": true
-    },
-
-    {
-      "id": 201,
-      "god_path_id": 2,
-      "position": 1,
-      "name": "Sankat Mochan",
-      "location": "Varanasi, UP",
-      "description": "Popular Hanuman temple.",
-      "image_name": "https://images.pexels.com/photos/13366845/pexels-photo-13366845.jpeg?_gl=1*e0dkjj*_ga*OTczMjk1OTI5LjE3NTI5ODk2OTQ.*_ga_8JE65Q40S6*czE3Nzc1NTgxMDMkbzI4JGcxJHQxNzc3NTU4MTE0JGo0OSRsMCRoMA..",
-      "jap_required": 1000,
-      "total_jap_required": 1000,
-      "reward_type": "BADGE",
-      "reward_value": "badge_hanuman_1",
-      "is_enabled": true
-    },
-    {
-      "id": 202,
-      "god_path_id": 2,
-      "position": 2,
-      "name": "Hanuman Garhi",
-      "location": "Ayodhya, UP",
-      "description": "Sacred Hanuman temple in Ayodhya.",
-      "image_name": "https://images.pexels.com/photos/17367059/pexels-photo-17367059.jpeg?_gl=1*1yn8dj7*_ga*OTczMjk1OTI5LjE3NTI5ODk2OTQ.*_ga_8JE65Q40S6*czE3Nzc1NTgxMDMkbzI4JGcxJHQxNzc3NTU4MTY3JGo1OSRsMCRoMA..",
-      "jap_required": 2500,
-      "total_jap_required": 3500,
-      "reward_type": "WALLPAPER",
-      "reward_value": "wallpaper_hanuman",
-      "is_enabled": true
-    },
-
-    {
-      "id": 301,
-      "god_path_id": 3,
-      "position": 1,
-      "name": "Mathura",
-      "location": "UP",
-      "description": "Birthplace of Lord Krishna.",
-      "image_name": "https://images.pexels.com/photos/13366845/pexels-photo-13366845.jpeg?_gl=1*e0dkjj*_ga*OTczMjk1OTI5LjE3NTI5ODk2OTQ.*_ga_8JE65Q40S6*czE3Nzc1NTgxMDMkbzI4JGcxJHQxNzc3NTU4MTE0JGo0OSRsMCRoMA..",
-      "jap_required": 1500,
-      "total_jap_required": 1500,
-      "reward_type": "BADGE",
-      "reward_value": "badge_mathura",
-      "is_enabled": true
-    },
-    {
-      "id": 302,
-      "god_path_id": 3,
-      "position": 2,
-      "name": "Vrindavan",
-      "location": "UP",
-      "description": "Land of Krishna leelas.",
-      "image_name": "https://images.pexels.com/photos/17367059/pexels-photo-17367059.jpeg?_gl=1*1yn8dj7*_ga*OTczMjk1OTI5LjE3NTI5ODk2OTQ.*_ga_8JE65Q40S6*czE3Nzc1NTgxMDMkbzI4JGcxJHQxNzc3NTU4MTY3JGo1OSRsMCRoMA..",
-      "jap_required": 2500,
-      "total_jap_required": 4000,
-      "reward_type": "THEME",
-      "reward_value": "theme_krishna_blue",
-      "is_enabled": true
-    },
     {
       "id": 101,
       "god_path_id": 1,
@@ -99,6 +13,7 @@
       "total_jap_required": 1000,
       "reward_type": "BADGE",
       "reward_value": "badge_kashi",
+      "mandir_color": "#B3E5FC",
       "is_enabled": true
     },
     {
@@ -113,6 +28,7 @@
       "total_jap_required": 2500,
       "reward_type": "NONE",
       "reward_value": "",
+      "mandir_color": "#81D4FA",
       "is_enabled": true
     },
     {
@@ -127,6 +43,7 @@
       "total_jap_required": 4500,
       "reward_type": "BADGE",
       "reward_value": "badge_mahakal",
+      "mandir_color": "#4FC3F7",
       "is_enabled": true
     },
     {
@@ -141,6 +58,7 @@
       "total_jap_required": 7000,
       "reward_type": "NONE",
       "reward_value": "",
+      "mandir_color": "#29B6F6",
       "is_enabled": true
     },
     {
@@ -155,6 +73,7 @@
       "total_jap_required": 10000,
       "reward_type": "WALLPAPER",
       "reward_value": "wallpaper_kedarnath",
+      "mandir_color": "#039BE5",
       "is_enabled": true
     },
 
@@ -170,6 +89,7 @@
       "total_jap_required": 13500,
       "reward_type": "BADGE",
       "reward_value": "badge_bhim",
+      "mandir_color": "#0288D1",
       "is_enabled": true
     },
     {
@@ -184,6 +104,7 @@
       "total_jap_required": 17500,
       "reward_type": "NONE",
       "reward_value": "",
+      "mandir_color": "#0277BD",
       "is_enabled": true
     },
     {
@@ -198,6 +119,7 @@
       "total_jap_required": 22000,
       "reward_type": "NONE",
       "reward_value": "",
+      "mandir_color": "#01579B",
       "is_enabled": true
     },
     {
@@ -212,6 +134,7 @@
       "total_jap_required": 27000,
       "reward_type": "BADGE",
       "reward_value": "badge_rameshwar",
+      "mandir_color": "#283593",
       "is_enabled": true
     },
     {
@@ -226,148 +149,7 @@
       "total_jap_required": 33000,
       "reward_type": "THEME",
       "reward_value": "theme_shiv",
-      "is_enabled": true
-    },
-
-    {
-      "id": 111,
-      "god_path_id": 1,
-      "position": 11,
-      "name": "Baijnath",
-      "location": "HP",
-      "description": "Ancient Shiva temple.",
-      "image_name": "https://images.pexels.com/photos/13366845/pexels-photo-13366845.jpeg",
-      "jap_required": 7000,
-      "total_jap_required": 40000,
-      "reward_type": "NONE",
-      "reward_value": "",
-      "is_enabled": true
-    },
-    {
-      "id": 112,
-      "god_path_id": 1,
-      "position": 12,
-      "name": "Lingaraj",
-      "location": "Odisha",
-      "description": "Famous temple in Bhubaneswar.",
-      "image_name": "https://images.pexels.com/photos/17367059/pexels-photo-17367059.jpeg",
-      "jap_required": 8000,
-      "total_jap_required": 48000,
-      "reward_type": "BADGE",
-      "reward_value": "badge_lingaraj",
-      "is_enabled": true
-    },
-    {
-      "id": 113,
-      "god_path_id": 1,
-      "position": 13,
-      "name": "Chidambaram",
-      "location": "Tamil Nadu",
-      "description": "Cosmic dance temple.",
-      "image_name": "https://images.pexels.com/photos/13366845/pexels-photo-13366845.jpeg",
-      "jap_required": 9000,
-      "total_jap_required": 57000,
-      "reward_type": "NONE",
-      "reward_value": "",
-      "is_enabled": true
-    },
-    {
-      "id": 114,
-      "god_path_id": 1,
-      "position": 14,
-      "name": "Srisailam",
-      "location": "Andhra Pradesh",
-      "description": "Mallikarjuna temple.",
-      "image_name": "https://images.pexels.com/photos/17367059/pexels-photo-17367059.jpeg",
-      "jap_required": 10000,
-      "total_jap_required": 67000,
-      "reward_type": "NONE",
-      "reward_value": "",
-      "is_enabled": true
-    },
-    {
-      "id": 115,
-      "god_path_id": 1,
-      "position": 15,
-      "name": "Baidyanath",
-      "location": "Jharkhand",
-      "description": "Healing Jyotirlinga.",
-      "image_name": "https://images.pexels.com/photos/13366845/pexels-photo-13366845.jpeg",
-      "jap_required": 12000,
-      "total_jap_required": 79000,
-      "reward_type": "WALLPAPER",
-      "reward_value": "wallpaper_baidyanath",
-      "is_enabled": true
-    },
-
-    {
-      "id": 116,
-      "god_path_id": 1,
-      "position": 16,
-      "name": "Tungnath",
-      "location": "Uttarakhand",
-      "description": "Highest Shiva temple.",
-      "image_name": "https://images.pexels.com/photos/17367059/pexels-photo-17367059.jpeg",
-      "jap_required": 14000,
-      "total_jap_required": 93000,
-      "reward_type": "NONE",
-      "reward_value": "",
-      "is_enabled": true
-    },
-    {
-      "id": 117,
-      "god_path_id": 1,
-      "position": 17,
-      "name": "Kotilingeshwar",
-      "location": "Karnataka",
-      "description": "Temple with thousands of lingas.",
-      "image_name": "https://images.pexels.com/photos/13366845/pexels-photo-13366845.jpeg",
-      "jap_required": 16000,
-      "total_jap_required": 109000,
-      "reward_type": "NONE",
-      "reward_value": "",
-      "is_enabled": true
-    },
-    {
-      "id": 118,
-      "god_path_id": 1,
-      "position": 18,
-      "name": "Murudeshwar",
-      "location": "Karnataka",
-      "description": "Tall Shiva statue temple.",
-      "image_name": "https://images.pexels.com/photos/17367059/pexels-photo-17367059.jpeg",
-      "jap_required": 18000,
-      "total_jap_required": 127000,
-      "reward_type": "BADGE",
-      "reward_value": "badge_murudeshwar",
-      "is_enabled": true
-    },
-    {
-      "id": 119,
-      "god_path_id": 1,
-      "position": 19,
-      "name": "Bhuteshwar",
-      "location": "MP",
-      "description": "Ancient Shiva shrine.",
-      "image_name": "https://images.pexels.com/photos/13366845/pexels-photo-13366845.jpeg",
-      "jap_required": 20000,
-      "total_jap_required": 147000,
-      "reward_type": "NONE",
-      "reward_value": "",
-      "is_enabled": true
-    },
-    {
-      "id": 120,
-      "god_path_id": 1,
-      "position": 20,
-      "name": "Neelkanth",
-      "location": "Rishikesh",
-      "description": "Sacred Shiva temple.",
-      "image_name": "https://images.pexels.com/photos/17367059/pexels-photo-17367059.jpeg",
-      "jap_required": 22000,
-      "total_jap_required": 169000,
-      "reward_type": "THEME",
-      "reward_value": "theme_neelkanth",
+      "mandir_color": "#1A237E",
       "is_enabled": true
     }
   ]
