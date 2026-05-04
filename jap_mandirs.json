@@ -151,6 +151,82 @@
       "reward_value": "theme_shiv",
       "mandir_color": "#1A237E",
       "is_enabled": true
+    },
+    {
+      "id": 201,
+      "god_path_id": 2,
+      "position": 1,
+      "name": "Sankat Mochan",
+      "location": "Varanasi, UP",
+      "description": "Famous Hanuman temple for removing obstacles.",
+      "image_name": "https://images.pexels.com/photos/13366845/pexels-photo-13366845.jpeg",
+      "jap_required": 500,
+      "total_jap_required": 500,
+      "reward_type": "BADGE",
+      "reward_value": "badge_hanuman_1",
+      "mandir_color": "#FFB74D",
+      "is_enabled": true
+    },
+    {
+      "id": 202,
+      "god_path_id": 2,
+      "position": 2,
+      "name": "Hanuman Garhi",
+      "location": "Ayodhya, UP",
+      "description": "Sacred Hanuman temple in Ayodhya.",
+      "image_name": "https://images.pexels.com/photos/17367059/pexels-photo-17367059.jpeg",
+      "jap_required": 1000,
+      "total_jap_required": 1500,
+      "reward_type": "WALLPAPER",
+      "reward_value": "wallpaper_hanuman",
+      "mandir_color": "#FB8C00",
+      "is_enabled": true
+    },
+    {
+      "id": 301,
+      "god_path_id": 3,
+      "position": 1,
+      "name": "Mathura",
+      "location": "UP",
+      "description": "Birthplace of Lord Krishna.",
+      "image_name": "https://images.pexels.com/photos/13366845/pexels-photo-13366845.jpeg",
+      "jap_required": 800,
+      "total_jap_required": 800,
+      "reward_type": "BADGE",
+      "reward_value": "badge_mathura",
+      "mandir_color": "#64B5F6",
+      "is_enabled": true
+    },
+    {
+      "id": 302,
+      "god_path_id": 3,
+      "position": 2,
+      "name": "Vrindavan",
+      "location": "UP",
+      "description": "Land of Krishna leelas.",
+      "image_name": "https://images.pexels.com/photos/17367059/pexels-photo-17367059.jpeg",
+      "jap_required": 1200,
+      "total_jap_required": 2000,
+      "reward_type": "NONE",
+      "reward_value": "",
+      "mandir_color": "#42A5F5",
+      "is_enabled": true
+    },
+    {
+      "id": 303,
+      "god_path_id": 3,
+      "position": 3,
+      "name": "Dwarkadhish",
+      "location": "Gujarat",
+      "description": "Kingdom of Lord Krishna.",
+      "image_name": "https://images.pexels.com/photos/13366845/pexels-photo-13366845.jpeg",
+      "jap_required": 2000,
+      "total_jap_required": 4000,
+      "reward_type": "THEME",
+      "reward_value": "theme_krishna",
+      "mandir_color": "#1E88E5",
+      "is_enabled": true
     }
+
   ]
 }
