@@ -289,6 +289,101 @@
     "reward_value": "theme_hanuman",
     "mandir_color": "#E65100",
     "is_enabled": true
+  },
+
+
+    
+
+    //-------Rama-------
+  {
+    "id": 401,
+    "god_path_id": 4,
+    "position": 1,
+    "name": "Bhadrachalam",
+    "location": "Telangana",
+    "description": "Famous Sri Rama temple on Godavari river.",
+    "image_name": "bhadrachalam.png",
+    "jap_required": 40,
+    "total_jap_required": 140,
+    "reward_type": "THEME",
+    "reward_value": "theme_rama",
+    "mandir_color": "#2E7D32",
+    "is_enabled": true
+  },
+  {
+    "id": 402,
+    "god_path_id": 4,
+    "position": 2,
+    "name": "Chitrakoot",
+    "location": "UP / MP",
+    "description": "Sacred forest where Lord Rama spent exile years.",
+    "image_name": "chitrakoot.png",
+    "jap_required": 15,
+    "total_jap_required": 25,
+    "reward_type": "NONE",
+    "reward_value": "",
+    "mandir_color": "#A5D6A7",
+    "is_enabled": true
+  },
+  {
+    "id": 403,
+    "god_path_id": 4,
+    "position": 3,
+    "name": "Panchavati",
+    "location": "Nashik, Maharashtra",
+    "description": "Forest region linked with Ramayana events.",
+    "image_name": "panchavati.png",
+    "jap_required": 20,
+    "total_jap_required": 45,
+    "reward_type": "BADGE",
+    "reward_value": "badge_panchavati",
+    "mandir_color": "#81C784",
+    "is_enabled": true
+  },
+  {
+    "id": 404,
+    "god_path_id": 4,
+    "position": 4,
+    "name": "Hampi Kodanda Rama",
+    "location": "Karnataka",
+    "description": "Ancient Rama temple near Kishkindha.",
+    "image_name": "kodanda_rama.png",
+    "jap_required": 25,
+    "total_jap_required": 70,
+    "reward_type": "NONE",
+    "reward_value": "",
+    "mandir_color": "#66BB6A",
+    "is_enabled": true
+  },
+  {
+    "id": 405,
+    "god_path_id": 4,
+    "position": 5,
+    "name": "Rameswaram",
+    "location": "Tamil Nadu",
+    "description": "Sacred place connected to Ram Setu.",
+    "image_name": "rameswaram_ram.png",
+    "jap_required": 30,
+    "total_jap_required": 100,
+    "reward_type": "WALLPAPER",
+    "reward_value": "wallpaper_rameswaram",
+    "mandir_color": "#43A047",
+    "is_enabled": true
+  },
+  {
+    "id": 406,
+    "god_path_id": 4,
+    "position": 6,
+    "name": "Ayodhya Ram Mandir",
+    "location": "Ayodhya, UP",
+    "description": "Birthplace of Lord Rama.",
+    "image_name": "ayodhya_ram_mandir.png",
+    "jap_required": 10,
+    "total_jap_required": 10,
+    "reward_type": "BADGE",
+    "reward_value": "badge_ayodhya",
+    "mandir_color": "#C8E6C9",
+    "is_enabled": true
   }
   ]
 }
