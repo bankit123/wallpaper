@@ -515,7 +515,7 @@
     "location": "Nashik, Maharashtra",
     "description": "Forest region linked with Ramayana events.",
     "image_name": "panchavati.png",
-    "jap_required": 20,
+    "jap_required": 900,
     "total_jap_required": 45,
     "reward_type": "BADGE",
     "reward_value": "badge_panchavati",
