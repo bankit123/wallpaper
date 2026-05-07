@@ -180,7 +180,131 @@
       "reward_value": "theme_jyotirlinga",
       "mandir_color": "#4527A0",
       "is_enabled": true
-    }
+    },
+
+// ───────────── Hanumanji ─────────────
+
+
+    {
+    "id": 201,
+    "god_path_id": 2,
+    "position": 1,
+    "name": "Sankat Mochan",
+    "location": "Varanasi, UP",
+    "description": "Famous Hanuman temple for removing obstacles.",
+    "image_name": "sankat_mochan.png",
+    "jap_required": 10,
+    "total_jap_required": 10,
+    "reward_type": "BADGE",
+    "reward_value": "badge_sankat_mochan",
+    "mandir_color": "#FFE0B2",
+    "is_enabled": true
+  },
+  {
+    "id": 202,
+    "god_path_id": 2,
+    "position": 2,
+    "name": "Hanuman Garhi",
+    "location": "Ayodhya, UP",
+    "description": "Sacred Hanuman temple in Ayodhya.",
+    "image_name": "hanuman_garhi.png",
+    "jap_required": 15,
+    "total_jap_required": 25,
+    "reward_type": "NONE",
+    "reward_value": "",
+    "mandir_color": "#FFCC80",
+    "is_enabled": true
+  },
+  {
+    "id": 203,
+    "god_path_id": 2,
+    "position": 3,
+    "name": "Salasar Balaji",
+    "location": "Rajasthan",
+    "description": "One of the most famous Hanuman temples.",
+    "image_name": "salasar_balaji.png",
+    "jap_required": 20,
+    "total_jap_required": 45,
+    "reward_type": "BADGE",
+    "reward_value": "badge_salasar",
+    "mandir_color": "#FFB74D",
+    "is_enabled": true
+  },
+  {
+    "id": 204,
+    "god_path_id": 2,
+    "position": 4,
+    "name": "Mehandipur Balaji",
+    "location": "Rajasthan",
+    "description": "Powerful temple dedicated to Balaji Hanuman.",
+    "image_name": "mehandipur_balaji.png",
+    "jap_required": 25,
+    "total_jap_required": 70,
+    "reward_type": "NONE",
+    "reward_value": "",
+    "mandir_color": "#FFA726",
+    "is_enabled": true
+  },
+  {
+    "id": 205,
+    "god_path_id": 2,
+    "position": 5,
+    "name": "Jakhu Hanuman",
+    "location": "Shimla, HP",
+    "description": "Hilltop Hanuman temple with giant statue.",
+    "image_name": "jakhu_hanuman.png",
+    "jap_required": 30,
+    "total_jap_required": 100,
+    "reward_type": "WALLPAPER",
+    "reward_value": "wallpaper_jakhu",
+    "mandir_color": "#FB8C00",
+    "is_enabled": true
+  },
+  {
+    "id": 206,
+    "god_path_id": 2,
+    "position": 6,
+    "name": "Namakkal Anjaneyar",
+    "location": "Tamil Nadu",
+    "description": "Famous giant Hanuman temple.",
+    "image_name": "namakkal_anjaneyar.png",
+    "jap_required": 35,
+    "total_jap_required": 135,
+    "reward_type": "BADGE",
+    "reward_value": "badge_namakkal",
+    "mandir_color": "#F57C00",
+    "is_enabled": true
+  },
+  {
+    "id": 207,
+    "god_path_id": 2,
+    "position": 7,
+    "name": "Kashtabhanjan Hanuman",
+    "location": "Gujarat",
+    "description": "Sacred Hanuman temple of Sarangpur.",
+    "image_name": "kashtabhanjan.png",
+    "jap_required": 40,
+    "total_jap_required": 175,
+    "reward_type": "THEME",
+    "reward_value": "theme_hanuman",
+    "mandir_color": "#E65100",
+    "is_enabled": true
+  },
+  {
+    "id": 208,
+    "god_path_id": 2,
+    "position": 8,
+    "name": "Sarangpur Hanuman",
+    "location": "Botad, Gujarat",
+    "description": "Famous Kashtabhanjan Hanuman temple in Sarangpur.",
+    "image_name": "sarangpur_hanuman.png",
+    "jap_required": 50,
+    "total_jap_required": 225,
+    "reward_type": "THEME",
+    "reward_value": "theme_sarangpur",
+    "mandir_color": "#D84315",
+    "is_enabled": true
+  }
 
   ]
 }
