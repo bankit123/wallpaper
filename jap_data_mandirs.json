@@ -502,7 +502,7 @@
     {
       "id": 403,
       "god_path_id": 4,
-      "position": 900,
+      "position": 3,
       "name": "Panchavati",
       "location": "Nashik, Maharashtra",
       "description": "Forest region linked with Ramayana events.",
@@ -517,12 +517,12 @@
     {
       "id": 404,
       "god_path_id": 4,
-      "position": 1800,
+      "position": 4,
       "name": "Hampi Kodanda Rama",
       "location": "Karnataka",
       "description": "Ancient Rama temple near Kishkindha.",
       "image_name": "kodanda_rama.png",
-      "jap_required": 25,
+      "jap_required": 1800,
       "total_jap_required": 70,
       "reward_type": "NONE",
       "reward_value": "",
