@@ -60,6 +60,21 @@
       "sort_order": 4,
       "unlock_jap": 15000,
       "is_enabled": true
+    },
+    {
+      "id": 5,
+      "name": "Premanand Ji",
+      "mantra": "Radhe Radhe",
+      "description": "Spiritual journey through Vrindavan dham",
+      "theme_color": "#AD1457",
+      "light_color": "#F8BBD0",
+      "image_name": "https://i.pinimg.com/736x/55/5c/3d/555c3d3f4c72a5b7d54cbbf7f2c4df92.jpg",
+      "bonus_day": "THURSDAY",
+      "total_mandirs": 12,
+      "mandir_label": "12 Vrindavan Sacred Places",
+      "sort_order": 5,
+      "unlock_jap": 20000,
+      "is_enabled": true
     }
   ]
 }
